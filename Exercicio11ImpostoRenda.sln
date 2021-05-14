@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio11ImpostoRenda", "Exercicio11ImpostoRenda\Exercicio11ImpostoRenda.csproj", "{7310FFD6-3BAC-4213-BADF-0B2260FF2FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7310FFD6-3BAC-4213-BADF-0B2260FF2FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7310FFD6-3BAC-4213-BADF-0B2260FF2FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7310FFD6-3BAC-4213-BADF-0B2260FF2FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7310FFD6-3BAC-4213-BADF-0B2260FF2FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9415D00A-0F1C-487F-89E7-B5C6DA4B9A7F}
+	EndGlobalSection
+EndGlobal
